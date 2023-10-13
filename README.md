@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrachiSinghai1105
-- 👀 I’m interested in ...Pyhton SQl R
-- 🌱 I’m currently learning ...Pyrhton SQL R
+- 👀 I’m interested in ...Pyhton SQl R TABLEAU POWER BI
+- 🌱 I’m currently learning ...Pyhton SQL R TABLEAU POWER BI
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... prachisinghai05@gmail.com
 
