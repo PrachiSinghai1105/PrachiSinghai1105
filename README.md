@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrachiSinghai1105
-- 👀 I’m interested in ...Python SQl R TABLEAU POWER BI
+- 👀 I’m interested in ...Python SQL R TABLEAU POWER BI
 - 🌱 I’m currently learning ...Python SQL R TABLEAU POWER BI
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... prachisinghai05@gmail.com
